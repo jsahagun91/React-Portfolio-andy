@@ -11,7 +11,7 @@
 }
 
 .header-background{
-  background-color: #a4b9b6;
+  background-color: #9ebbb6;
 }
 
 .main-background{
@@ -28,7 +28,7 @@
 .project{
   transition: all;
   transition-duration: 0.5s;
-  border: solid 10px #3D405B;
+  border: solid 5px #9ebbb6;
   border-radius: 2%;
 }
 
@@ -49,7 +49,7 @@
 
 .custom-link:hover,
 .custom-link-footer:hover{
-  color: #7f83fb !important;
+  color: #fe7e7e !important;
 }
 
 .custom-link-footer{

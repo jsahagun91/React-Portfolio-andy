@@ -2,8 +2,14 @@ export default function Resume(){
   return(
       <div className='m-3 resume'>
           <h2>My Resume</h2>
+          <br></br>
+          <a className="btn btn-primary" href="Public/Andys_resume2023.pdf" download={"Public/Andys_resume2023.pdf"}>
+              Download My Resume
+          </a>
+          <br></br>
           <h3>Front End Development</h3>
           <ul className='mx-3'>
+            <br></br>
               <li><h4>Javascript</h4></li>
               <li><h4>HTML</h4></li>
               <li><h4>CSS</h4></li>
@@ -22,9 +28,6 @@ export default function Resume(){
               <li><h4>MongoDB</h4></li>
               <li><h4>mongoose</h4></li>
           </ul>
-          <a className="btn btn-primary" href="" download={""}>
-              Download My Resume
-          </a>
       </div>
   )
 }
