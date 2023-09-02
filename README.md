@@ -81,6 +81,5 @@ This project is licensed under the [License Name] License - see the [LICENSE.md]
 
 If you have any questions or suggestions, please feel free to contact the developer:
 
-- GitHub: [GitHub Profile](https://github.com/yourusername)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourname)
-- [Add third platform contact information]
+- GitHub: [GitHub Profile](https://github.com/AndyGodoy)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andy-godoy-173111280/)
