@@ -7,15 +7,15 @@
 }
 
 #root, html{
-  background-color: #F4F1DE;
+  background-color: #e9eef1;
 }
 
 .header-background{
-  background-color: #76949F;
+  background-color: #a4b9b6;
 }
 
 .main-background{
-  background-color: #F4F1DE;
+  background-color: #e9eef1;
 }
 
 .project-container{
@@ -36,15 +36,11 @@
   opacity: 50%;
 }
 
-.my-face{
-  width: 15vw;
-}
-
 .project-title{
   padding: 1%;
   color: #3D405B;
   font-size: 30px;
-  background-color: #F2CC8F;
+  background-color: #f0e3f97c;
 }
 
 .custom-link{
@@ -53,7 +49,7 @@
 
 .custom-link:hover,
 .custom-link-footer:hover{
-  color: #F2CC8F !important;
+  color: #7f83fb !important;
 }
 
 .custom-link-footer{
@@ -67,7 +63,7 @@
 }
 
 .custom-link-portfolio{
-  color: #3D405B
+  color: #515471
 }
 
 .custom-link-portfolio:hover{

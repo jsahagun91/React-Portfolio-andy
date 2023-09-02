@@ -11,12 +11,12 @@ export default function Portfolio(){
     }
     
     const projects = [
-        new Project('CatFish', 'cat-fish.jpg', 'https://github.com/kaylaasana/CatFish', 'https://kaylaasana.github.io/CatFish/'),
-        new Project("The Monkey's Cup", 'monkey-cup.png', 'https://github.com/DSHowarth/Escape-Room-Storefront', 'https://sheltered-scrubland-47894-17ae2d63c103.herokuapp.com/'),
-        new Project("Weather Dashboard", "weather-dashboard.jpg", "https://github.com/moonjunsain/weather-dashboard", "https://moonjunsain.github.io/weather-dashboard/"),
-        new Project("Hero RPG", "hero-rpg.jpg", "https://github.com/moonjunsain/hero-rpg", "https://moonjunsain.github.io/hero-rpg/"),
-        new Project("Work Scheduler", "work-day.png", "https://github.com/moonjunsain/work-day-scheduler", "https://moonjunsain.github.io/work-day-scheduler/"),
-        new Project("Password Gen", "password-gen.png", "https://github.com/moonjunsain/password-generator", "https://moonjunsain.github.io/password-generator/"),
+        new Project('DTC SOLUTIONS', 'Public/check-engine-light-icon-1616189100.jpg', 'https://github.com/jacob-kachmarek/dtc-solutions', 'https://jacob-kachmarek.github.io/dtc-solutions/'),
+        new Project("SIllyCode Valley!", 'Public/1654472780-improv_header_final.jpg', 'https://github.com/Chapjae/sillyCode_valley', 'https://intense-sands-40473-ea199ebca0d8.herokuapp.com/'),
+        new Project("Weather App", "Public/Weather_iOS_15.webp", "https://github.com/AndyGodoy/WeatherApp_Project-", "https://andygodoy.github.io/WeatherApp_Project-/"),
+        new Project("ReadMe Generator", "Public/read-me-640-20140826113452850.jpg", "https://github.com/AndyGodoy/ReadMe-Generator", "https://github.com/AndyGodoy/ReadMe-Generator/blob/main/README.md"),
+        new Project("Fun Work Scheduler", "Public/work-schedules-header-banner.png", "https://github.com/AndyGodoy/Fun_Work_Schedule", "https://andygodoy.github.io/Fun_Work_Schedule/"),
+        new Project("E-Commerce BackEnd", "Public/ecommerce3-1.jpg", "https://github.com/AndyGodoy/E-commerce_BackEnd", "https://drive.google.com/file/d/1Y2HKJPu_d4VrItNzLosJyaWUdvzlkXfl/view?pli=1"),
     ]
 
 

@@ -1,5 +1,7 @@
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import './index.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 import App from './App.jsx'
 import ErrorPage from './pages/ErrorPage.jsx'
@@ -15,7 +17,7 @@ const router = createBrowserRouter([
   errorElement: <ErrorPage/>,
   children: [
     {
-      index: true,
+      path: "/About",
       element: <About/>,
     },
     {
@@ -27,7 +29,7 @@ const router = createBrowserRouter([
       element: <Resume/>
     },
     {
-      path: "/portfolio",
+      index: true,
       element: <Portfolio/>
     }
   ]
