@@ -1,6 +1,5 @@
 import Projects from "../components/Projects"
 
-
 export default function Portfolio(){
     class Project {
         constructor(name, imgPath, github, live){
