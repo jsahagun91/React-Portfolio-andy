@@ -1,7 +1,9 @@
+
+
 export default function About(){
   return(
       <div className="mx-5 text-center d-flex align-items-center">
-         <img src="/R1-03735-029A.jpg"  width="34%" />
+         <img src="/R1-03735-029A.jpg" width="34%" alt="Image Description" />
           <p className='mx-5 text-center d-flex align-items-center'>
           Versatile and results-driven professional with a passion for learning and an unwavering dedication to excellence. Automotive industry expert with a background in technical troubleshooting and certified in Auto, Diesel, and Toyota servicing.
 
