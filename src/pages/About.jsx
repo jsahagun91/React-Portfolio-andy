@@ -1,4 +1,4 @@
-
+import me from "../../public/me.jpg";
 
 export default function About() {
   return (
