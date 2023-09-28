@@ -2,7 +2,7 @@
 export default function About() {
   return (
     <div className="d-flex my-3">
-    <img src={'public/me.jpg'} className="my-face mx-3" alt="my-face" />
+    <img src="/me.jpg" className="my-face mx-3" alt="my-face" />
       <p className='mx-5 text-center d-flex align-items-center'>
         Versatile and results-driven professional with a passion for learning and an unwavering dedication to excellence. Automotive industry expert with a background in technical troubleshooting and certified in Auto, Diesel, and Toyota servicing.
 
